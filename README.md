@@ -2,6 +2,7 @@
 # web-templates
 
 This repository provides templates that can be cloned and used when needed.
+Copy the repo to select the template need. To run the code: **npm run dev** 
 
 ## Templates
 
